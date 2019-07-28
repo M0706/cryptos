@@ -1,0 +1,12 @@
+We will develop a mobile and web based application for voting using azure blockchain to ensure smooth and secure voting process
+For secure voting we will add a feature of QR scanning such that the user has to scan the QR code in his/her aadhar card.
+The user will be directed to voting page only after scanning the QR code on its aadhar card .
+The user will require to make an ID on the app and has to upload certain documents as to make sure that it is not a fake ID.
+The user is required to upload  voter ID , aadhar card and passport(if applicable).
+Once the ID is made the link for voting will be active only during the specified dates that the election comission will decide.
+During the voting period once the user has to scan the QR code on its aadhar card then he will have only one try to cast the vote.
+After casting the vote the link will be deactivated on particular voter's ID. So that there is no multiple voting form one ID.
+Adding to user interface we will add biodata of various candidates contesting the election so that the user can choose more potential candidate.
+Using Azure blockchain the voting will be not controlled by any centralised organization thus there will be no scope of rigged election.
+For future developments we will add an option of finger scanning(if available in user's smartphone)such that the user's credentials will be matched with the finger scanned during aadhar verification for even faster access to voting.
+For NRI users ID will be created by uploading their passport so that there is no vague user ID.
